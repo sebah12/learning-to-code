@@ -16,6 +16,6 @@ Then there is a function named "fill_board" that starts to put lines on the boar
 
 # Backtracking
 
-You can try to do it by hand, starting with an empty board and filling lines one by one. This would take you some time but you would do it this way. Maybe...
-But we can automate this problem using code and implementing <a href="https://en.wikipedia.org/wiki/Backtracking">Backtracking</a> is similar to the way you would do it by hand. 
+You can try to do it by hand, starting with an empty board and filling lines one by one. This would take you some time but you can achieve it this way. Maybe...
+But we can automate this problem using code and implementing <a href="https://en.wikipedia.org/wiki/Backtracking">Backtracking</a> similar to the way you would do it by hand. 
 
